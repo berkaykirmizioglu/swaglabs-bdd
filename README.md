@@ -71,6 +71,6 @@ mvn clean verify -Dwebdriver.driver=remote -Dwebdriver.remote.url='http://localh
 swaglabs-bdd/target/site/serenity/index.html
 
 **Some Example Test Results**
-![Screenshot](https://github.com/berkaykirmizioglu/swaglabs-bdd/src/test/resources/screenshots/overall_test_results.png)
-![Screenshot](https://github.com/berkaykirmizioglu/swaglabs-bdd/src/test/resources/screenshots/test_detail.png)
+![Screenshot](https://github.com/berkaykirmizioglu/swaglabs-bdd/blob/main/src/test/resources/screenshots/overall_test_results.png)
+![Screenshot](https://github.com/berkaykirmizioglu/swaglabs-bdd/blob/main/src/test/resources/screenshots/test_detail.png)
 
